@@ -1,6 +1,8 @@
-# preact material app
+# Book Store Example Elixir GraphQL App Frontend
 
-Super performant `Material` app for preact world using [preact-material-components](https://github.com/prateekbh/preact-material-components)
+Made with [preact](https://github.com/developit/preact) and [preact-material-components](https://github.com/prateekbh/preact-material-components)
+
+For the backend, see: [book_store](https://github.com/koszta/book_store)
 
 ## CLI Commands
 
